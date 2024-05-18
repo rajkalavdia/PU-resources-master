@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "593894374045",
+    "project_id": "pu-resources",
+    "storage_bucket": "pu-resources.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:593894374045:android:7e904e413b58aa755a3274",
+        "android_client_info": {
+          "package_name": "com.example.puresources"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "593894374045-0negq6m8d6l1rt3h4m4q0psptv0aij8n.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAHG7GO6acxqveQ8_Cx4LA9M69RIYx4yK4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "593894374045-0negq6m8d6l1rt3h4m4q0psptv0aij8n.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
